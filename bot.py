@@ -83,7 +83,7 @@ async def clear(ctx, count: int = None):
 
 @client.command(name="support", aliases=['sup'])
 async def support(ctx):
-    await ctx.send('https://github.com/Jay-Surana\nContact = ! Real#4810')
+    await ctx.send('https://github.com/DSquadZYT\nContact = DSGシOffiCIALS#6906')
 
 warn_count = {}
 
