@@ -108,7 +108,8 @@ async def nuke(ctx):
 
 @bot.command(name="support")
 async def support(ctx):
-    await ctx.send('https://github.com/Jay-Surana\nContact = ! Real#4810')
+    await ctx.send('https://github.com/DSquadZYT\nContact = ™ DSquadZ GAMING ◥▶_◀◤
+#7655')
 
 @bot.command(name="link")
 async def link(ctx):
